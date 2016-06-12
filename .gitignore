@@ -1,0 +1,7 @@
+*.xml
+*.sbt
+*GradingFeedback.scala
+*Settings.scla
+*StudentBuildLike.scala
+*.class
+
