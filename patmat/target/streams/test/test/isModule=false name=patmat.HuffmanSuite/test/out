@@ -4,16 +4,4 @@
 [0m[[0minfo[0m] [0m[32m- string2chars("hello, world")[0m[0m
 [0m[[0minfo[0m] [0m[32m- makeOrderedLeafList for some frequency table[0m[0m
 [0m[[0minfo[0m] [0m[32m- combine of some leaf list[0m[0m
-[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: patmat.HuffmanSuite *** ABORTED ***[0m[0m
-[0m[[0minfo[0m] [0m[31m  java.lang.StackOverflowError:[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:214)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  at patmat.Huffman$.traverseTree$1(Huffman.scala:218)[0m[0m
-[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[32m- decode and encode a very short text should be identity[0m[0m

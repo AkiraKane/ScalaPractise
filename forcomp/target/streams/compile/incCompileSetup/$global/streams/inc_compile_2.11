@@ -1,0 +1,353 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+30 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/common/package$.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/common/package.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1$$anonfun$apply$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2$$anonfun$apply$4.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$5.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$6.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$2$$anonfun$apply$3.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$2.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2$$anonfun$apply$5$$anonfun$apply$6.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2$$anonfun$apply$5.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordAnagrams$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$3.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package$.class
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package.class
+binary dependencies:
+6 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> /home/ingared/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /home/ingared/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> /home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> /home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+30 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> common.package
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> common.package$
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$1$$anonfun$apply$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$2$$anonfun$apply$4
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$3
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$4
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$5
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$6
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$combinations$1$$anonfun$apply$2$$anonfun$apply$3
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$dictionaryByOccurrences$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2$$anonfun$apply$5
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2$$anonfun$apply$5$$anonfun$apply$6
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$sentenceOccurrences$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordAnagrams$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp.Anagrams$$anonfun$wordOccurrences$3
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> forcomp.package$$anonfun$2
+used names:
+169 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> ::
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> <init>
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> <repeated>
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> Any
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> AnyRef
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> File
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> FileInputStream
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> InputStream
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> List
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> None
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> Nothing
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> Option
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> Predef
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> String
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> _root_
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> child
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> children
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> classesDir
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> common
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> exists
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> file
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> foldLeft
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> getClass
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> getParentFile
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> getResource
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> io
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> java
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> package
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> projectDir
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> resourceFile
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> resourcePath
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> scala
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> subFile
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> toURI
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> !=
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> &&
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> +
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> ++
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> -
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> ::
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> <
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> <=
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> <init>
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> ==
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Anagrams
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> AnyRef
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Boolean
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Char
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> IndexedSeq
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Int
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> List
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Map
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Nil
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occurence
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Occurrences
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Predef
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Sentence
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> String
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Tuple2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> Word
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> _1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> _2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> a
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> acc
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> apply
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> args
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> augmentString
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> b
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> c
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> canBuildFrom
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> charAt
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> charWrapper
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> combinations
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> common
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> count
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionary
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> dictionaryByOccurrences
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> exists
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> filter
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> flatMap
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> flatten
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> foldRight
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> forcomp
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> get
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> getListofSentences
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> groupBy
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> i
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> immutable
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> index
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> intWrapper
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> isEmpty
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> isInstanceOf
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> j
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> keySet
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> length
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> lengthCompare
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> loadDictionary
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> map
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> mkString
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> ne
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> next
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> occ
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> occs
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurence
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurence1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurence2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> occurrences
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> package
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> partition
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> res
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> s
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> s1
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> s2
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> scala
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentence
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> sentenceOccurrences
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> sortByCharCount
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> sortWith
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> subtract
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> temp
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> toList
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> toLower
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> toLowerCase
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> unapplySeq
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> unary_!
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> unchecked
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> until
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> w
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> withFilter
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> word
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> wordOccurrences
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> x
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> y
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> yocc
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> zip
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> +
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> <init>
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> AnyRef
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> Codec
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> Exception
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> List
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> Option
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> Predef
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> Source
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> apply
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> close
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> common
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> dictionaryPath
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> e
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> error
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> fallbackSystemCodec
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> forcomp
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> fromInputStream
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> getClass
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> getLines
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> getOrElse
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> getResourceAsStream
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> immutable
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> io
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> mkString
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> orElse
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> package
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> println
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> resourceAsStreamFromSrc
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> s
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> scala
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> sys
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> toList
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> wordstream
+product stamps:
+30 items
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1464995181000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/common/package$.class -> lastModified(1464995181000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/common/package.class -> lastModified(1464995181000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1$$anonfun$apply$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2$$anonfun$apply$4.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$2.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$3.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$4.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$5.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$6.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1$$anonfun$apply$2.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$combinations$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$dictionaryByOccurrences$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2$$anonfun$apply$5.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$forcomp$Anagrams$$getListofSentences$1$2.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$sentenceOccurrences$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordAnagrams$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$1.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$2.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$$anonfun$wordOccurrences$3.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams$.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/Anagrams.class -> lastModified(1465576098000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$1.class -> lastModified(1464995181000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package$$anonfun$2.class -> lastModified(1464995181000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package$.class -> lastModified(1464995181000)
+/home/ingared/Documents/ScalaPractise/forcomp/target/scala-2.11/classes/forcomp/package.class -> lastModified(1464995181000)
+source stamps:
+3 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> hash(9b04937dc40d10c9f355dff80209775e9586ee9b)
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> hash(77c0a618470b8baef7ad6c4ec5791b3e05901b88)
+binary stamps:
+2 items
+/home/ingared/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1427228924000)
+class names:
+2 items
+/home/ingared/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Tuple2
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVGIRbgXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEcvaG9tZS9pbmdhcmVkL0RvY3VtZW50cy9TY2FsYVByYWN0aXNlL2ZvcmNvbXAvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCMLzuXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJvH++x0AAZub3RpZnlzcQB+AAzYlMRSdAAEd2FpdHNxAH4ADIbe1DN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGGzzTXQACHN1YnRyYWN0c3EAfgAMueeH+HQABmVxdWFsc3NxAH4ADBCoktB0AApkaWN0aW9uYXJ5c3EAfgAM5i8oMnQADGFzSW5zdGFuY2VPZnNxAH4ADCT2FrJ0AA93b3JkT2NjdXJyZW5jZXNzcQB+AAzKvpIHdAAMc3luY2hyb25pemVkc3EAfgAM9k8Eu3QADSRpc0luc3RhbmNlT2ZzcQB+AAzhUvK0dAAQc2VudGVuY2VBbmFncmFtc3NxAH4ADJNIDfN0AAx3b3JkQW5hZ3JhbXNzcQB+AAzhdfwjdAAJbm90aWZ5QWxsc3EAfgAML25Iw3QADGlzSW5zdGFuY2VPZnNxAH4ADGxu4SZ0AAxjb21iaW5hdGlvbnNzcQB+AAyN9B83dAALT2NjdXJyZW5jZXNzcQB+AAyq3clCdAACPT1zcQB+AAx3rWbsdAAFY2xvbmVzcQB+AAwtxs3RdAAXZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXNzcQB+AAxtfol0dAAIdG9TdHJpbmdzcQB+AAy5p3ApdAACIT1zcQB+AAzsOgaldAATc2VudGVuY2VPY2N1cnJlbmNlc3NxAH4ADCVxmI50AAhnZXRDbGFzc3NxAH4ADNNnSiF0ABVjb3VudE9jY3VyZW5jZXNPZkNoYXJzcQB+AAxmSNfvdAAJT2NjdXJlbmNlc3EAfgAMXxexfXQAD2dldENvbWJpbmF0aW9uc3NxAH4ADIB7jMR0AA9zb3J0QnlDaGFyQ291bnRzcQB+AAyqKMcRdAACbmVzcQB+AAy/b6KNdAAIQW5hZ3JhbXNzcQB+AAw7KkDQdAACZXFzcQB+AAwCYCfWdAAIU2VudGVuY2VzcQB+AAz7uMDPdAAEV29yZHNxAH4ADGSo/o50AAIjI3NxAH4ADHCUonN0AAhmaW5hbGl6ZXNxAH4ADO9tmaV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABBmb3Jjb21wLkFuYWdyYW1zdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB1AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBdTAAJaW5oZXJpdGVkcQB+AF1MAAdwYXJlbnRzcQB+AF14cQB+AHxzcQB+AHUBdXEAfgBYAAAAAHBzcQB+AHUBdXEAfgBYAAAAAHBzcQB+AHUBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB7dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCUdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCVc3EAfgCIdAADQW55c3EAfgCMc3EAfgCPdXEAfgCSAAAAAnNxAH4AlHQABXNjYWxhcQB+AJtwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2ZvcmNvbXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVU7JGN7dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmwSTfcQNEMnzVd/4Agl3XpWG7ps=
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDIdJL/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNbz0pZ0AAZub3RpZnlzcQB+AAxW1XgtdAAHcGFja2FnZXNxAH4ADAl+dyx0AAR3YWl0c3EAfgAMLc/YrXQADSRhc0luc3RhbmNlT2ZzcQB+AAyZ4UMNdAAGZXF1YWxzc3EAfgAMtOzWKnQADGFzSW5zdGFuY2VPZnNxAH4ADA4Z8Y50AAxzeW5jaHJvbml6ZWRzcQB+AAw5MC4/dAANJGlzSW5zdGFuY2VPZnNxAH4ADM8ZN550AAlub3RpZnlBbGxzcQB+AAxF25EtdAAMaXNJbnN0YW5jZU9mc3EAfgAMqDWMmHQADmxvYWREaWN0aW9uYXJ5c3EAfgAMaRwC5nQAAj09c3EAfgAMeOTc4nQABWNsb25lc3EAfgAMewrlhnQACHRvU3RyaW5nc3EAfgAMGBCTnnQAAiE9c3EAfgAMy+/k/nQACGdldENsYXNzc3EAfgAMQqdvvXQAAm5lc3EAfgAM+PLHM3QADmRpY3Rpb25hcnlQYXRoc3EAfgAMz5Z3h3QAAmVxc3EAfgAMScfz5HQAAiMjc3EAfgAMUJ+SMHQACGZpbmFsaXplc3EAfgAMJd7D+XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2ZvcmNvbXAucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwF1cQB+AD4AAAAAcHNxAH4AWwF1cQB+AD4AAAAAcHNxAH4AWwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH1zcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4Ag3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZm9yY29tcHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRiEW4F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHL2hvbWUvaW5nYXJlZC9Eb2N1bWVudHMvU2NhbGFQcmFjdGlzZS9mb3Jjb21wL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR3wKYYRwuLrvetbE7FeRs+BZAbiA==
+external apis:
+0 items
+source infos:
+3 items
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/Anagrams.scala -> 
+AAAAAAAAAAA=
+/home/ingared/Documents/ScalaPractise/forcomp/src/main/scala/forcomp/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVRiEW4F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVScib/t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVSckiMN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVScmG+t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVScqTkx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVTskY3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARy9ob21lL2luZ2FyZWQvRG9jdW1lbnRzL1NjYWxhUHJhY3Rpc2UvZm9yY29tcC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

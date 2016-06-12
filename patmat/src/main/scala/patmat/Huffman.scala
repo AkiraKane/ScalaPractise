@@ -79,11 +79,11 @@ object Huffman {
 
         case Nil => Nil
         case y::ys =>
-          val (fst, lst) = xs partition  (z => z==y)
+          val (fst, lst) = xs.partition(z => z==y)
           fst::pack(lst)
       }
 
-      pack(chars) map (ys => (ys.head,ys.length))
+      pack(chars).map(ys => (ys.head,ys.length))
   }
   
   /**
@@ -205,26 +205,25 @@ object Huffman {
    * This function decodes the bit sequence `bits` using the code tree `tree` and returns
    * the resulting list of characters.
    */
-    def decode(tree: CodeTree, bits: List[Bit]): List[Char] = {
 
-    def traverseTree(tr:CodeTree, bits1:List[Bit]): List[Char] = tr match {
+  def decode(tree: CodeTree, bits: List[Bit]): List[Char] = {
 
-      case Leaf(c,_) =>  bits1 match {
-        case Nil => List(c)
-        case (y::ys)=> c:: traverseTree(tree,bits1)
+    def traverseTree(codeTree: CodeTree, bits: List[Bit]): List[Char] = codeTree match {
+
+      case Leaf(c, _) => bits match {
+        case List() => List(c)
+        case a :: b => c :: traverseTree(tree, bits)
       }
-      case Fork(right, left, _,_) => bits1 match {
-        case Nil => List()
-        case (y::ys)=>
-          if (y==0) traverseTree(left,bits1.tail)
-          else traverseTree(right,bits.tail)
 
+      case Fork(left, right, _, _) => {
+        if (bits.head == 0) traverseTree (left, bits.tail)
+        else traverseTree (right, bits.tail)
       }
     }
 
-    traverseTree(tree,bits)
+    traverseTree(tree, bits)
   }
-  
+
   /**
    * A Huffman coding tree for the French language.
    * Generated from the data given at
@@ -307,4 +306,5 @@ object Huffman {
    * and then uses it to perform the actual encoding.
    */
     def quickEncode(tree: CodeTree)(text: List[Char]): List[Bit] = text flatMap codeBits(convert(tree))
+
   }
